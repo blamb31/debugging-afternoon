@@ -48,6 +48,7 @@ class App extends Component {
       });
     }
   }
+  
   render() {
     const { products, showCart, cart } = this.state;
     return (
